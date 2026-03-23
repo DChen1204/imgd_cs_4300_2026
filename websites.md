@@ -1,1 +1,1 @@
-- [Ethan Carter]([https://charlie-roberts.com](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file))
+- [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
