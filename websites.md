@@ -1,5 +1,6 @@
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- [Weilun Deng](https://github.com/wdeng123/imgd4300-webgpu-studio)
 - [Shawn Pande](https://d3bug64.codeberg.page/gsa/)
 - [Jacob Curtis] (https://jcurtis9218.github.io)
 - [Lorenzo Cassano](https://github.com/Lorenzockio/IMGD_CS_4300.git)
