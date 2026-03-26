@@ -2,6 +2,7 @@
 - [Ethan Carter](https://github.com/chippieboi/4300-Assignements?tab=readme-ov-file)
 - [Thinh Pham](https://github.com/Ternt/CS_4300_Projects)
 - [Example](https://charlie-roberts.com)
+- [Walton Pelkey](https://sites.google.com/view/waltonpelkey-cs4300/home) 
 - [Sarah Hatch](https://github.com/SarahSchool27/IMGD-CS-4300_Hatch)
 - [Keenan Porter's Website](https://github.com/Keenan-Porter/GSA-Class-website-KP/blob/main/Home)
 - [Biwen Dong's Website](https://github.com/BiwenDong/CS4300-Graphics_Simulation_Aesthetics)
