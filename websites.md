@@ -1,1 +1,2 @@
+- [Adrian Trilling](https://github.com/ALTrilling/CS4300-site)
 - [Mason Moore](https://github.com/InKremlin/CS-4300)
